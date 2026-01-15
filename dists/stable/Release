@@ -1,0 +1,7 @@
+Origin: CopperOperator
+Label: CopperOperator Repo
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: CopperOperator future update repository
